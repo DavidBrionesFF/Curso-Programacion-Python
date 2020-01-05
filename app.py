@@ -1,0 +1,3 @@
+from capitulos.instalacion_libreria.capitulo10 import mensaje_bienvenida
+
+mensaje_bienvenida()
